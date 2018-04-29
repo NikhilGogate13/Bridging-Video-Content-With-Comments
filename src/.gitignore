@@ -1,0 +1,14 @@
+/test
+*.pyc
+/data/var/
+/python-LDA/
+/data/LDA_ProcessWithT/*
+/data/tmp/*
+.idea
+/data/train.dat
+/data/representative2.txt
+/nlp-metrics/
+/PythonROUGE/
+/rouge-2.0/
+/Text_Summarization-MMR_and_LexRank/
+/plot.py
